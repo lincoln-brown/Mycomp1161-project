@@ -1,0 +1,8 @@
+Client ID, surname, firstname, Acc type, balance, address, Parish, pin,TRN,CardNumBer,accountnumber
+"JBX09", "Bond", "James", savings, 1598.74, "Main St. Oracabessa", "St. Mary",1234,"236547892",123456789,5564848
+"JBX09", "Bond", "James", investment, 85984.74, "Main St. Oracabessa", "St. Mary",1234,"236547892",123456789,5560839
+"SHW34", "Holmes", "Sherlock", investment, 6489546.0, "Brigade St. Santa Cruz", "St. Elizabeth",4444,"236547892,987456321,5560447
+"THW03", "Hardy", "Thomas", investment, 6548.40, "Brigade St. Santa Cruz", "St. Elizabeth",9703,"247823642",369852147,i0000002
+"JJX12", "Jones", "Jessica", direct banking, 85169.08, "15 Old Hope Road Kgn 5", "KSA",5197,"210036473",147852369,d000000
+"DIG01", "Digicel", "Mossel Jamaica Ltd.", investment, 3245455249.75 ,"15 Ocean Boulevard Kingston", "Kingston and St. Andrew",8633,"003654129",357789634,i000003
+"WUU88", "Western Photo Ltd.", "Western Photo Ltd.", chequing, 2586492.09, "8 Main Street Savannah-la-mar", "Westmoreland",6688,"231024796",159874632,c000000
